@@ -1,0 +1,30 @@
+#animalForm { 
+	
+	float: right;
+	padding-right: 500px; 
+	padding-top: 100px;
+
+ } 
+
+ .animal { 
+
+	font-weight: bold; 
+	margin: 15px; 
+
+  }
+
+.giphy { 
+
+	height: 150px;
+	margin: 15px; 
+	
+
+ }
+
+ #animals { 
+
+	font-size: 20px; 
+	font-weight: bold; 
+	margin: 15px;
+
+  }
